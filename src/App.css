@@ -4,3 +4,8 @@
   width: 100%;
   min-height: calc(100vh - 107px);
 }
+
+.form-control {
+  border: 0;
+  background-color: #e9e9e9;
+}

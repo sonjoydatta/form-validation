@@ -1,11 +1,11 @@
 import React from 'react';
 
 import './App.css';
-import { SignIn } from './components/pages';
+import Register from './components/pages/Register';
 
 function App() {
   return (
-    <SignIn />
+    <Register />
   );
 }
 
